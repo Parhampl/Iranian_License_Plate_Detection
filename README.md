@@ -49,5 +49,4 @@ Iranian-License-Plate-Recognition/
 ## Acknowledgments
 This project was developed as part of an AI course under the guidance of Dr. Zabihifar.
 
-## License
-This project is licensed under [Your Preferred License].
+
