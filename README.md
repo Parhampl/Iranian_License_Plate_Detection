@@ -1,7 +1,7 @@
 
 # Iranian License Plate Recognition
 
-This repository contains an end-to-end implementation for Iranian License Plate Recognition using modern AI techniques. The project focuses on detecting and recognizing license plates and extracting digits and text using different OCR methods.
+This repository contains an end-to-end implementation for Iranian License Plate Recognition using modern AI techniques. The project focuses on detecting and recognizing license plates and extracting digits and text using different OCR methods. This project starts with trying to make a custom OCR and custom Detector. However, since the easy OCR and YOLOv8 combination have been way better than the custom ones, I just uploaded the better code and compared them in the README file.
 
 ## Features
 - **YOLOv8 Detection**: For license plate detection.
